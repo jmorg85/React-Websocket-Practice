@@ -1,0 +1,7 @@
+.title {
+  line-height: 1.2;      
+  height: auto;          
+  min-height: 0;
+  overflow-wrap: break-word;
+  padding: 0.25rem 0;
+}
